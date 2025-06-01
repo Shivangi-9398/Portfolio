@@ -1,0 +1,21 @@
+{
+  "user": {
+    "id": "uuid",
+    "name": "string",
+    "email": "string",
+    "portfolio": {
+      "sections": [
+        {
+          "id": "uuid",
+          "type": "about",
+          "content": {
+            "title": "About Me",
+            "text": "Short bio"
+          }
+        }
+      ],
+      "theme": "modern"
+    }
+  }
+}
+
